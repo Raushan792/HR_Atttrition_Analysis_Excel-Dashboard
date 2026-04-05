@@ -6,7 +6,7 @@ An interactive Excel dashboard that analyzes employee attrition patterns across 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.jpeg)
 
 ---
 
